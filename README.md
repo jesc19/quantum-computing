@@ -1,5 +1,8 @@
-# quatum-computing
-Basic introductory codes to quatum computing using Python and Qiskit
+# quantum-computing
+Basic introductory codes to quantum computing using Python and Qiskit
+
+
+# 1.-Grover algorithm
 
 Grover algorithm is one of most famous simples codes in quantum computing, due to the fact that it shows the adventages of quantums algorithms over the classical .
 
