@@ -1,5 +1,5 @@
 # quantum-computing
-Basic introductory codes to quantum computing using Python and Qiskit
+In this repository I have unploaded basic introductory codes to quantum computing using Python and Qiskit
 
 
 # 1.-Grover algorithm
