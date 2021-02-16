@@ -1,6 +1,6 @@
 # Grover algorithm
 
-Grover algorithm is one of most famous and simplest codes in quantum computing. It shows the adventages of quantums algorithms over the classical .
+Grover algorithm is one of most famous and simplest codes in quantum computing. It shows the adventages of quantums algorithms over the classic ones .
 
 In this code we build the logic gates which allows us to choose with a greater probability a state consisting of 3 qbits.
 
