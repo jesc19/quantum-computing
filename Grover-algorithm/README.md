@@ -5,4 +5,6 @@ En este trabajo se construye el algoritmo de Grover para el caso de <i>n=3</i> q
 
 Dentro de este folder se encuentra un documento PDF con el cual se describe y se discute el algoritmo y la implementación a profundidad.  
 
+El programa solo opera dentro de Jupyter Notebook ya que contiene los diagramas de los circuitos.
+
 (English translation in process)
